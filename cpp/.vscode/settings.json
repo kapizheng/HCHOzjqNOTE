@@ -1,0 +1,8 @@
+{
+    "code-runner.runInTerminal": true,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "all",
+    "code-runner.executorMap": {
+        "cpp": " cd $dir && g++ $fileName -D LOCAL -o C:\\Users\\zjq\\Desktop\\code\\cpp\\exe\\$fileNameWithoutExt.exe && C:\\Users\\zjq\\Desktop\\code\\cpp\\exe\\$fileNameWithoutExt.exe"
+    },
+}
